@@ -25,7 +25,7 @@ The directory structure of this project looks like this:
     │
     ├── DairyAnalysis.csv   <- dataset from this project.
     │
-    └── Script.ipynb         <- Python Notebook for The Project.
+    └── Script.ipynb        <- Python Notebook for The Project.
 
 ## Contribute
 
