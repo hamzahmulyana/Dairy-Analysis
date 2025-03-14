@@ -13,7 +13,7 @@ This analysis is crucial for stakeholders like management, sales and marketing t
 
 To get this project, you can clone it by running the following code:
 
-    git clone 
+    git clone git@github.com:hamzahmulyana/Dairy-Analysis.git
 
 ## Project Organization
 
